@@ -1,3 +1,9 @@
+//=============================================================
+//Autor: Maximilian Müller
+//Datum: 29.04.2020
+//Funktion: Ausgabe Lazy Caterer's sequence
+//=============================================================
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
