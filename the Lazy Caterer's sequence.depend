@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588113445 source:c:\users\maxim\onedrive - staatliche berufsschule erlangen\unterricht\app\codeblocks\the lazy caterer's sequence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
