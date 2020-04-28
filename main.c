@@ -11,7 +11,6 @@
 int main()
 {
     int iZahl1=1, iZahl2=0, i=0;
-
     iZahl1=1;
     iZahl2=0;
     //do while
